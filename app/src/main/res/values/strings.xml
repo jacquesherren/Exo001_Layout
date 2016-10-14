@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="firstname_hint">Firstname</string>
+    <string name="lastname_hint">Lastname</string>
+    <string name="address_hint">Address</string>
+    <string name="city_hint">City</string>
+    <string name="country_hint">Country</string>
+    <string name="birthdate_hint">Birthdate</string>
+    <string name="submit">Submit</string>
+</resources>
